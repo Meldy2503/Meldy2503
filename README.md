@@ -15,8 +15,8 @@ web engineering.
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm a foodie who loves travelling, researching and reading.
-- 🌱 I’m proficient in working with React/Context API, JavaScript(ES6), CSS3, HTML5, Redux, TailwindCSS, SASS, WordPress, Styled-Components and Git to build excellent and            scalable software applications.
-- 😊 I’m looking for help with open source projects, entry-level or mid-level opportunities. 
+- 🌱 I’m proficient in working with React/Context API, JavaScript(ES6), CSS3, HTML5, Typescript, Redux, TailwindCSS, SASS, WordPress, Styled-Components and Git to build excellent and            scalable software applications.
+- 😊 I’m looking for help with open source projects, Junior or mid-level opportunities. 
 - 💼 Job interests: Frontend Engineer and Software Engineer (Junior or Mid level). 
 - 📫 You can [view my resume](https://www.canva.com/design/DAEytjHfvIo/ppz2ASNA0DHJnK6anDui4g/view?utm_content=DAEytjHfvIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and contact me by emailing mailtoemelder.charles25@gmail.com.
 
