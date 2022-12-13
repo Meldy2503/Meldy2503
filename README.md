@@ -20,3 +20,6 @@ web engineering.
 - 💼 Job interests: Frontend Engineer and Software Engineer (Junior or Mid level). 
 - 📫 You can [view my resume](https://www.canva.com/design/DAEytjHfvIo/ppz2ASNA0DHJnK6anDui4g/view?utm_content=DAEytjHfvIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and contact me by emailing mailtoemelder.charles25@gmail.com.
 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=meldy2503&show_icons=true&include_all_commits=true&hide_border=true" alt="Emelder's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meldy2503&langs_count=8&layout=compact&hide_border=true" alt="Emelder's GitHub stats" /> |
+| ------------- | ------------- |
