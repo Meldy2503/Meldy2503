@@ -15,10 +15,10 @@ web engineering.
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm a foodie who loves travelling, researching and reading.
-- 🌱 I’m proficient in working with React/Context API, JavaScript(ES6), CSS3, HTML5, Typescript, Redux, TailwindCSS, SASS, WordPress, Styled-Components and Git to build excellent and            scalable software applications.
-- 😊 I’m looking for help with open source projects, Junior or mid-level opportunities. 
-- 💼 Job interests: Frontend Engineer and Software Engineer (Junior or Mid level). 
-- 📫 You can [view my resume](https://www.canva.com/design/DAEytjHfvIo/ppz2ASNA0DHJnK6anDui4g/view?utm_content=DAEytjHfvIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and contact me by emailing mailtoemelder.charles25@gmail.com.
+- 🌱 I’m proficient in working with React.js, Next.js, React-native,  TypeScript, JavaScript(ES6), CSS3, HTML5, Typescript, Redux and Redux toolkit, Context API, TailwindCSS, SASS, WordPress, Styled-Components and Git to build excellent and scalable software applications.
+- 😊 I’m looking for help with open source projects, mid-level or senior opportunities. 
+- 💼 Job interests: Frontend Engineer and Software Engineer (Mid-level or Senior level). 
+- 📫 You can contact me by emailing mailtoemelder.charles25@gmail.com.
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=meldy2503&show_icons=true&include_all_commits=true&hide_border=true" alt="Emelder's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meldy2503&langs_count=8&layout=compact&hide_border=true" alt="Emelder's GitHub stats" /> |
